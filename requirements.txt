@@ -1,4 +1,4 @@
 # Look at test pypi for package-e
---extra-index-url https://test.pypi.org/simple/
-pkg_e==1.0.0
+--extra-index-url https://test.pypi.org/simple
+pkg_e==1.0.1
 pytest~=8.3

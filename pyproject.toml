@@ -2,8 +2,9 @@
 name = 'pkg_c'
 description = 'Package C is part of a broder project of Python package management.'
 readme = 'README.md'
-version = '1.0.1'
+version = '1.0.3'
 requires-python = '>=3.11'
+dependencies = ['pkg_e']
 
 [build-system]
 requires = ['setuptools']

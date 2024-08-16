@@ -1,6 +1,8 @@
-# Python Template
+# Package C
 
-A python template that we can use to create other Python template. It provides the pertinent setup and boilerplate code needed in a new python project.
+Package C is part of a broder project of Python package management. 
+
+This package provides statistical functions.
 
 ## Setup
 
